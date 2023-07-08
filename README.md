@@ -35,3 +35,5 @@ For the group assignment, our team plotted a stream graph for the temporal dynam
 ## Conclusion
 
 Overall, this project allowed me to apply my data analysis and visualization skills to explore the Unicorn companies dataset. It provided valuable insights into the characteristics and trends of these high-growth companies.
+
+Kaggle Link: https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset
